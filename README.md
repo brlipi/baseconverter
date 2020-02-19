@@ -1,2 +1,2 @@
 # baseconverter
-Simple base converted written in C#.
+Simple base converter written in C#.
