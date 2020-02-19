@@ -1,0 +1,11 @@
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\bin\Debug\netcoreapp2.1\BaseConverter.deps.json
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\bin\Debug\netcoreapp2.1\BaseConverter.runtimeconfig.json
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\bin\Debug\netcoreapp2.1\BaseConverter.runtimeconfig.dev.json
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\bin\Debug\netcoreapp2.1\BaseConverter.dll
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\bin\Debug\netcoreapp2.1\BaseConverter.pdb
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\obj\Debug\netcoreapp2.1\BaseConverter.csprojAssemblyReference.cache
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\obj\Debug\netcoreapp2.1\BaseConverter.csproj.CoreCompileInputs.cache
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\obj\Debug\netcoreapp2.1\BaseConverter.AssemblyInfoInputs.cache
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\obj\Debug\netcoreapp2.1\BaseConverter.AssemblyInfo.cs
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\obj\Debug\netcoreapp2.1\BaseConverter.dll
+C:\Users\INPOWER\source\repos\BaseConverter\BaseConverter\obj\Debug\netcoreapp2.1\BaseConverter.pdb
